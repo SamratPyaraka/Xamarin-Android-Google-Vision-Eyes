@@ -7,5 +7,5 @@ https://github.com/googlesamples/android-vision/tree/master/visionSamples/googly
 ### Reference Help url for Google Vision Face Detection in Xamarin Android:
 https://blog.xamarin.com/adding-face-tracking-live-recognition-android-app/
 
-##Use Case:
+## Use Case:
 Can be used for liveness detection and capturing auto snap.
